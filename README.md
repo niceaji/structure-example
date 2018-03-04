@@ -9,6 +9,7 @@
 * https://github.com/vlpt-playground/begin-redux
 * https://github.com/netlify/netlify-cms
 * https://github.com/jxnblk/react-simple-icons
+* https://github.com/ryuhangyeong/daily-health-originer
 
 ## Etc
 
