@@ -12,6 +12,7 @@
 * https://github.com/ryuhangyeong/daily-health-originer
 * https://github.com/RedgooseDev/react-photo-layout-editor
 * https://github.com/chvin/react-tetris
+* https://github.com/jvalen/pixel-art-react
 
 ## Etc
 
