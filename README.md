@@ -13,6 +13,7 @@
 * https://github.com/RedgooseDev/react-photo-layout-editor
 * https://github.com/chvin/react-tetris
 * https://github.com/jvalen/pixel-art-react
+* https://github.com/richardkall/react-starter
 
 ## Etc
 
