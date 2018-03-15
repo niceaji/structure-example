@@ -14,6 +14,7 @@
 * https://github.com/chvin/react-tetris
 * https://github.com/jvalen/pixel-art-react
 * https://github.com/richardkall/react-starter
+* https://github.com/oviava/react-redux-axios-example
 
 ## Etc
 
