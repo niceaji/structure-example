@@ -15,6 +15,7 @@
 * https://github.com/jvalen/pixel-art-react
 * https://github.com/richardkall/react-starter
 * https://github.com/oviava/react-redux-axios-example
+* https://github.com/react-boilerplate/react-boilerplate
 
 ## Etc
 
