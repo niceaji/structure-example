@@ -16,6 +16,7 @@
 * https://github.com/richardkall/react-starter
 * https://github.com/oviava/react-redux-axios-example
 * https://github.com/react-boilerplate/react-boilerplate
+* https://github.com/diegohaz/arc
 
 ## Etc
 
